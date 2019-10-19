@@ -1,3 +1,7 @@
 this is a test file, 1, 2, 3, 4 ...
 A: "how are you?"
 B: "fine."
+There are two main types of questions: Yes/No questions and WH- question. WH-questions are questions starting with WH-words including: what, when, where, who, whom, which, whose, why and how.
+
+Question words are used to ask about specific qualities, times, places, people and so on. Below is a list of question words and example sentences:
+What will happen if our team loses this time? When will the train arrive? Where do you live?

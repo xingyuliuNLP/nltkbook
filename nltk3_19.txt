@@ -1,0 +1,5 @@
+fuzzy 53
+fancy 44
+head 35
+tail 99
+ouou 1
